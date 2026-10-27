@@ -8,4 +8,4 @@ Expand-Archive (Get-ChildItem .\Island-windows-widget*.zip | Sort-Object LastWri
 cd C:\Island2\Island
 .\Island.ps1 -DebugMode
 
- enjoy 
+ enjoy
